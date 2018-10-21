@@ -1,0 +1,8 @@
+{
+  "channelActivityMerchantFraudAnalysisResult" : "possible merchant fraud",
+  "channelActivityAnalysisReference" : "CAAR123",
+  "channelActivityMerchantFraudAnalysisAlgorithmReference" : "951753258",
+  "channelActivityMerchantFraudAnalysisAlgorithmSpecification" : "Algorithm analysis required",
+  "channelActivityMerchantFraudAnalysisReference" : "564889765",
+  "channelActivityServiceReference" : "123456879"
+}

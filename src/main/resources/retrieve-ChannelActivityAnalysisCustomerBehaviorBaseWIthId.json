@@ -1,0 +1,8 @@
+{
+  "channelActivityAnalysisReference" : "CAAR123",
+  "channelActivityCustomerBehaviorAnalysisAlgorithmSpecification" : "Algorithm analysis required",
+  "channelActivityCustomerBehaviorAnalysisReference" : "564889765",
+  "channelActivityCustomerBehaviorAnalysisAlgorithmReference" : "666555444",
+  "channelActivityCustomerBehaviorAnalysisResult" : "pattern customer activity",
+  "channelActivityServiceReference" : "123456879"
+}

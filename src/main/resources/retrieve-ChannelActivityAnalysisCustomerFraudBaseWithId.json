@@ -1,0 +1,7 @@
+{
+  "channelActivityCustomerFraudAnalysisAlgorithmSpecification" : "Channel analysis required",
+  "channelActivityAnalysisReference" : "CAAR123",
+  "channelActivityCustomerFraudAnalysisAlgorithmReference" : "654987321",
+  "channelActivityCustomerFraudAnalysisResult" : "potential customer fraud",
+  "channelActivityCustomerFraudAnalysisReference" : "741258963"
+}

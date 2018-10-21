@@ -1,0 +1,8 @@
+{
+  "channelActivityMerchantBehaviorAnalysisReference" : "564889765",
+  "channelActivityMerchantBehaviorAnalysisAlgorithmSpecification" : "Algorithm analysis required",
+  "channelActivityAnalysisReference" : "CAAR123",
+  "channelActivityMerchantBehaviorAnalysisResult" : "pattern merchant activity",
+  "channelActivityCustomerBehaviorAnalysisAlgorithmReference" : "110066887",
+  "channelActivityServiceReference" : "123456879"
+}

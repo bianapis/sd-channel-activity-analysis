@@ -1,0 +1,8 @@
+{
+  "channelActivityBotAnalysisResult" : "detect unwanted (ro)bot access",
+  "channelActivityAnalysisReference" : "CAAR123",
+  "channelActivityBotAnalysisAlgorithmReference" : "110069987",
+  "channelActivityBotAnalysisReference" : "564889765",
+  "channelActivityBotAnalysisAlgorithmSpecification" : "Algorithm analysis required",
+  "channelActivityServiceReference" : "123456879"
+}

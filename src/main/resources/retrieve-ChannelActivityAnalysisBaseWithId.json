@@ -1,0 +1,9 @@
+{
+  "channelActivityFromToAnalysis" : "[10-12-2018, 31-12-2022]",
+  "channelActivityAnalysisRecord" : {},
+  "channelActivityAnalysisReference" : "CAAR123",
+  "channelType" : "Type 1",
+  "channelActivityHistoryReport" : {},
+  "channelActivityAnalysisResult" : "[analysis 1, anlysis 2]",
+  "channelActivityAnalysisType" : "customer fraud, merchant fraud"
+}
